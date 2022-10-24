@@ -1,7 +1,7 @@
 {
   "name": "Project 4",
   "description": "Create an automations and test if it works.",
-  "main": "Main.xaml",
+  "main": "Connected Office Web Application User Acceptance Testing.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.Mail.Activities": "[1.18.0]",
@@ -47,8 +47,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "cb3317e6-29eb-42be-9028-88e785b9d60c",
+      "filePath": "Connected Office Web Application User Acceptance Testing.xaml",
+      "uniqueId": "fdbdfb1f-5f81-44b4-b275-3c80f6092437",
       "input": [],
       "output": []
     }
